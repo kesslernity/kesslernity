@@ -7,13 +7,15 @@
   &nbsp;&bull;&nbsp;
   <a href="#mistral-vibe"><strong>Mistral Vibe libraries</strong></a>
   &nbsp;&bull;&nbsp;
+  <a href="#both-runtimes"><strong>Both runtimes</strong></a>
+  &nbsp;&bull;&nbsp;
   <a href="#the-rule-that-caps-all-of-it"><strong>The rule that caps all of it</strong></a>
   &nbsp;&bull;&nbsp;
   <a href="https://www.kesslernity.com/what-broke?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=nav"><strong>What broke</strong></a>
 </p>
 
 <p align="center">
-  <img alt="Eight repositories" src="https://img.shields.io/badge/repositories-8-0F172A?style=flat-square">
+  <img alt="Nine repositories" src="https://img.shields.io/badge/repositories-9-0F172A?style=flat-square">
   <img alt="Two vendors" src="https://img.shields.io/badge/vendors-Microsoft%20%C2%B7%20Mistral-2563EB?style=flat-square">
   <img alt="Licence CC BY-SA 4.0" src="https://img.shields.io/badge/licence-CC%20BY--SA%204.0-64748B?style=flat-square">
   <a href="https://www.kesslernity.com/what-broke?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=badge"><img alt="What broke, dated, with fixes" src="https://img.shields.io/badge/what%20broke-dated%2C%20with%20fixes-D9772E?style=flat-square"></a>
@@ -43,6 +45,12 @@ Two vendors are covered here, and the material is not a pitch for either. Where 
 | [**awesome-mistral-vibe-agents**](https://github.com/kesslernity/awesome-mistral-vibe-agents) | 17 agent profiles, all passing a checker that ships in the repo and reproduces the two calls inside Vibe's loader | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-mistral-vibe-agents?style=flat-square&label=&color=D9772E&logo=github&logoColor=white"> |
 | [**awesome-mistral-vibe-prompts**](https://github.com/kesslernity/awesome-mistral-vibe-prompts) | 49 prompts for Vibe Work, scheduled tasks and Chat | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-mistral-vibe-prompts?style=flat-square&label=&color=D9772E&logo=github&logoColor=white"> |
 
+## Both runtimes
+
+| Repository | What it is | |
+|---|---|---|
+| [**awesome-agent-role-packs**](https://github.com/kesslernity/awesome-agent-role-packs) | Nine desks. Each one is a role, the skills it uses on either runtime, and a page naming what a person has to sign. The build fails on a pack that names a skill neither library has, or names nothing it refuses to decide | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-agent-role-packs?style=flat-square&label=&color=2563EB&logo=github&logoColor=white"> |
+
 ## The rule that caps all of it
 
 > **AI prepares, humans decide.**
@@ -53,4 +61,4 @@ Two vendors are covered here, and the material is not a pitch for either. Where 
 
 Before I publish a listing I have three models from different labs attack it, and I make the call. They do not catch everything. What got through is written up rather than quietly edited, dated, with the fix: **[kesslernity.com/what-broke](https://www.kesslernity.com/what-broke?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=fail_line)**.
 
-<sub>All eight repositories are CC BY-SA 4.0. Not affiliated with, or endorsed by, Microsoft or Mistral AI.</sub>
+<sub>All nine repositories are CC BY-SA 4.0. Not affiliated with, or endorsed by, Microsoft or Mistral AI.</sub>
