@@ -49,7 +49,7 @@ Two vendors are covered here, and the material is not a pitch for either. Where 
 
 | Repository | What it is | |
 |---|---|---|
-| [**awesome-agent-role-packs**](https://github.com/kesslernity/awesome-agent-role-packs) | Nine desks. Each one is a role, the skills it uses on either runtime, and a page naming what a person has to sign. The build fails on a pack that names a skill neither library has, or names nothing it refuses to decide | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-agent-role-packs?style=flat-square&label=&color=2563EB&logo=github&logoColor=white"> |
+| [**agent-desks**](https://github.com/kesslernity/agent-desks) | Nine desks. Each one is a role, the skills it uses on either runtime, and a page naming what a person has to sign. The build fails on a pack that names a skill neither library has, or names nothing it refuses to decide | <img alt="" src="https://img.shields.io/github/stars/kesslernity/agent-desks?style=flat-square&label=&color=2563EB&logo=github&logoColor=white"> |
 
 ## The rule that caps all of it
 
