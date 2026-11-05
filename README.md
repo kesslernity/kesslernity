@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Ten free libraries" src="https://img.shields.io/badge/free%20libraries-10-0F172A?style=flat-square">
+  <img alt="Eleven free libraries" src="https://img.shields.io/badge/free%20libraries-11-0F172A?style=flat-square">
   <img alt="Two vendors" src="https://img.shields.io/badge/vendors-Microsoft%20%C2%B7%20Mistral-2563EB?style=flat-square">
   <img alt="Licence CC BY-SA 4.0" src="https://img.shields.io/badge/licence-CC%20BY--SA%204.0-64748B?style=flat-square">
   <a href="https://www.kesslernity.com/what-broke?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=badge"><img alt="What broke, dated, with fixes" src="https://img.shields.io/badge/what%20broke-dated%2C%20with%20fixes-D9772E?style=flat-square"></a>
@@ -31,12 +31,13 @@ Two vendors are covered here, and the material is not a pitch for either. Where 
 
 | Repository | What it is | |
 |---|---|---|
-| [**awesome-microsoft-copilot-prompts**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 573 prompts across 18 categories | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
+| [**awesome-microsoft-copilot-prompts**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 500+ prompts, pasteable straight into Copilot Chat, Outlook, Teams or Word | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
 | [**awesome-copilot-studio-agents**](https://github.com/kesslernity/awesome-copilot-studio-agents) | 103 declarative agents across 17 domains, for Copilot Studio | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
 | [**awesome-copilot-chat-agents**](https://github.com/kesslernity/awesome-copilot-chat-agents) | 82 agents for Copilot Chat, no premium licence required | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-chat-agents?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
 | [**awesome-copilot-agent-skills**](https://github.com/kesslernity/awesome-copilot-agent-skills) | 137 custom skills across 29 disciplines for Agent Builder, a Microsoft preview limited to Frontier tenants | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-agent-skills?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
 | [**awesome-copilot-cowork-skills**](https://github.com/kesslernity/awesome-copilot-cowork-skills) | 21 workflow skills and a 16-persona review suite for Cowork | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-cowork-skills?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
-| [**awesome-copilot-office-skills**](https://github.com/kesslernity/awesome-copilot-office-skills) | 24 custom skills for Copilot in Excel and Copilot in PowerPoint, personal or organisation-wide, in the open Agent Skills format | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-office-skills?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
+| [**awesome-copilot-cowork-bots**](https://github.com/kesslernity/awesome-copilot-cowork-bots) | 23 Cowork bots in 8 packs, each read-and-prepare first with sending behind an approval, and a one-page PDF per bot to hand a colleague. MIT | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-cowork-bots?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
+| [**awesome-copilot-office-skills**](https://github.com/kesslernity/awesome-copilot-office-skills) | 27 custom skills for Copilot in Excel and Copilot in PowerPoint, personal or organisation-wide, in the open Agent Skills format | <img alt="" src="https://img.shields.io/github/stars/kesslernity/awesome-copilot-office-skills?style=flat-square&label=&color=0F172A&logo=github&logoColor=white"> |
 
 ## Mistral Vibe
 
@@ -64,4 +65,4 @@ Alongside them, [**excom-office-vibe**](https://github.com/kesslernity/excom-off
 
 Before I publish a listing I have three models from different labs attack it, and I make the call. They do not catch everything. What got through is written up rather than quietly edited, dated, with the fix: **[kesslernity.com/what-broke](https://www.kesslernity.com/what-broke?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=fail_line)**.
 
-<sub>The ten libraries above are CC BY-SA 4.0. ExCom Office is free under a source-available licence that forbids resale. Not affiliated with, or endorsed by, Microsoft or Mistral AI.</sub>
+<sub>Ten of the eleven libraries above are CC BY-SA 4.0; awesome-copilot-cowork-bots is MIT. ExCom Office is free under a source-available licence that forbids resale. Not affiliated with, or endorsed by, Microsoft or Mistral AI.</sub>
