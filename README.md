@@ -15,6 +15,13 @@
 </p>
 
 <p align="center">
+  <strong>Free tools, same author:</strong>
+  <a href="https://aiseatindex.com/?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=free_tools">AI Seat Index</a> (enterprise AI seat prices, minimums and governance terms, each sourced and dated)
+  &nbsp;&bull;&nbsp;
+  <a href="https://eolwatch.dev/?utm_source=github&utm_medium=profile&utm_campaign=gh_profile&utm_content=free_tools">EOL Watch</a> (cloud service retirements and end of support dates across Azure, AWS, GCP and OCI, each linked to its source)
+</p>
+
+<p align="center">
   <img alt="Eleven free libraries" src="https://img.shields.io/badge/free%20libraries-11-0F172A?style=flat-square">
   <img alt="Two vendors" src="https://img.shields.io/badge/vendors-Microsoft%20%C2%B7%20Mistral-2563EB?style=flat-square">
   <img alt="Licence CC BY-SA 4.0" src="https://img.shields.io/badge/licence-CC%20BY--SA%204.0-64748B?style=flat-square">
